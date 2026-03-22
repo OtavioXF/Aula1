@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    background-color: gray;
+}
+
+.menu{
+    background-color: black;
+    padding: 10px;
+}
+
+.menu a{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.container{
+    padding: 10px;
+}
+
+.titulo{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.titulo2{
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
